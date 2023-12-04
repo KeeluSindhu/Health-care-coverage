@@ -1,2 +1,3 @@
-This is helath care coverage project
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodeastro.com%2Finsurance-management-system-in-python-django-with-source-code%2F&psig=AOvVaw3-a8PUmTWnpQPH2FRCTG7n&ust=1701772730070000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCOxcrL9YIDFQAAAAAdAAAAABAE
+This is health care coverage project
+![image](https://github.com/KeeluSindhu/Health-care-coverage/assets/152489773/e7c975a0-19ac-4eff-a5b0-bd4e9fd61a8c)
+
